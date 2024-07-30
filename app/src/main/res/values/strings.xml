@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NearFruit</string>
+    <string name="welcome">Welcome to NearFruit</string>
+    <string name="role_choose">Please Choose Your Role!</string>
+    <string name="customer">Customer\n</string>
+    <string name="seller">Seller\n</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password\n</string>
+    <string name="signup">Signup\n</string>
+    <string name="askSign">Don\'t have an account yet?</string>
+    <string name="username">Username/Shop Name</string>
+    <string name="ok">Ok</string>
+    <string name="success">Berhasil</string>
+    <string name="success_login">Anda berhasil login!</string>
+    <string name="failed_login">Anda gagal login!</string>
+    <string name="fail">Gagal</string>
+    <string name="Detail_Lokasi">Detail Lokasi</string>
+    <string name="PetunjukArah">Petunjuk Arah</string>
+    <string name="jarak">0.00 KM</string>
+</resources>
